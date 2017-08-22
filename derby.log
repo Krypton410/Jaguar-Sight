@@ -1,0 +1,31 @@
+Wed Aug 23 01:39:01 SGT 2017 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed Aug 23 01:39:02 SGT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-015e-0b06-ae7b-ffff91640e87 
+on database directory C:\Users\Maxwell\Desktop\WPG\ObjectTracking\Persons with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_91/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=C:\Program Files\Java\jdk1.8.0_91\db
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Users\Maxwell\Desktop\WPG\ObjectTracking
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Aug 23 01:39:15 SGT 2017:
+Shutting down instance a816c00e-015e-0b06-ae7b-ffff91640e87 on database directory C:\Users\Maxwell\Desktop\WPG\ObjectTracking\Persons with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Wed Aug 23 01:39:15 SGT 2017 Thread[DRDAConnThread_3,5,main] (DATABASE = Persons), (DRDAID = {2}), Database 'Persons' shutdown.
+----------------------------------------------------------------
+Wed Aug 23 01:39:20 SGT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a65c80ac-015e-0b06-ae7b-ffff91640e87 
+on database directory C:\Users\Maxwell\Desktop\WPG\ObjectTracking\Persons with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_91/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=C:\Program Files\Java\jdk1.8.0_91\db
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Users\Maxwell\Desktop\WPG\ObjectTracking
+Database Class Loader started - derby.database.classpath=''
